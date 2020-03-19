@@ -26,6 +26,6 @@
 
 ## 模拟重现
 
-我们可以先简单重现一下，领会一下精神，代码如下([demo1](https://github.com/augustVino/JavaScript_Learning/examples/demo1.html))，效果如图
+我们可以先简单重现一下，领会一下精神，代码如下([demo1](https://github.com/augustVino/JavaScript_Learning/request_async/examples/demo1.html))，效果如图
 
-![image](https://github.com/augustVino/JavaScript_Learning/captures/demo1.gif)
+![image](https://github.com/augustVino/JavaScript_Learning/request_async/captures/demo1.gif)
