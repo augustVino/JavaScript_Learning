@@ -28,4 +28,12 @@
 
 我们可以先简单重现一下，领会一下精神，代码如下([demo1](https://github.com/augustVino/JavaScript_Learning/blob/master/request_async/examples/demo1.html))，效果如图
 
+![image](https://github.com/augustVino/JavaScript_Learning/blob/master/request_async/captures/demo1.png)
 ![image](https://github.com/augustVino/JavaScript_Learning/blob/master/request_async/captures/demo1.gif)
+
+可以看到，我们实际想渲染的是第四个请求的结果，但是却被第三的请求的结果后来居上了，导致了显示错误
+
+## 简单粗暴的解决方式
+
+最简单的想法就是记一下数（其实已经记了）。。。比较一下是不是最后一个就好了
+
